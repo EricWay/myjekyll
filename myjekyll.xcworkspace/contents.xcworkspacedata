@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:_config.yml">
+   </FileRef>
+   <FileRef
+      location = "group:_includes">
+   </FileRef>
+   <FileRef
+      location = "group:_layouts">
+   </FileRef>
+   <FileRef
+      location = "group:_posts">
+   </FileRef>
+   <FileRef
+      location = "group:_sass">
+   </FileRef>
+   <FileRef
+      location = "group:_site">
+   </FileRef>
+   <FileRef
+      location = "group:about.md">
+   </FileRef>
+   <FileRef
+      location = "group:archive.html">
+   </FileRef>
+   <FileRef
+      location = "group:assets">
+   </FileRef>
+   <FileRef
+      location = "group:css">
+   </FileRef>
+   <FileRef
+      location = "group:feed.xml">
+   </FileRef>
+   <FileRef
+      location = "group:index.html">
+   </FileRef>
+   <FileRef
+      location = "group:LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+</Workspace>
